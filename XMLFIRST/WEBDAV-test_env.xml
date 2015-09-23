@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Properties>
+    <constants
+        C_PROPERTY_cn="urn:schemas:contacts:cn"
+        C_PROPERTY_co="urn:schemas:contacts:co"
+        C_PROPERTY_department="urn:schemas:contacts:department"
+        C_PROPERTY_displayname="DAV:displayname"
+        C_PROPERTY_email1="urn:schemas:contacts:email1"
+        C_PROPERTY_facsimiletelephonenumber="urn:schemas:contacts:facsimiletelephonenumber"
+        C_PROPERTY_homeCity="urn:schemas:contacts:homeCity"
+        C_PROPERTY_homeCountry="urn:schemas:contacts:homeCountry"
+        C_PROPERTY_l="urn:schemas:contacts:l"
+        C_PROPERTY_o="urn:schemas:contacts:o"
+        C_PROPERTY_organizationmainphone="urn:schemas:contacts:organizationmainphone"
+        C_PROPERTY_postalcode="urn:schemas:contacts:postalcode"
+        C_PROPERTY_sn="urn:schemas:contacts:sn"
+        C_PROPERTY_subject="urn:schemas:httpmail:subject"
+        C_PROPERTY_telephoneNumber="urn:schemas:contacts:telephoneNumber"
+        Compare_Contact_Name="TEST CSPP"
+        Compare_TelephoneNumber="+4924134941771"
+        GW_PROVIDER="webdav"
+        MAILBOXALIAS="GW_TEST"
+    />
+</Properties>

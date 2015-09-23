@@ -1,0 +1,7 @@
+<Customer  customerID="12345" 
+	 xmlns="urn:xmlns:25hoursaday-com:customer">
+      <FirstName>Dare</FirstName>
+      <LastName>Obasanjo</LastName>
+	<![CDATA[<greeting>Hello, world!</greeting>]]> 
+
+</Customer>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="xom-1.1.jar">
+		<attributes>
+			<attribute value="file:/F:/ZZ_Privat/Programmierung/JAVA/XOM/Entpacked/XOM/apidocs/" name="javadoc_location"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path=""/>
+</classpath>

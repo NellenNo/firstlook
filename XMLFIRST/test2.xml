@@ -1,0 +1,11 @@
+<cust:Customer  customerID="12345" numPurchases="17" 
+       xmlns:cust="urn:xmlns:25hoursaday-com:customer" 
+       xmlns:addr="urn:xmlns:25hoursaday-com:address" >
+      <cust:FirstName>Dare</cust:FirstName>
+      <cust:LastName>Obasanjo</cust:LastName>
+      <cust:PhoneNumber>425-555-1234</cust:PhoneNumber>
+      <addr:Address>2001 Beagle Drive</addr:Address>
+      <addr:City>Redmond</addr:City>
+      <addr:State>WA</addr:State>
+      <addr:Zip>98052</addr:Zip>
+     </cust:Customer>
